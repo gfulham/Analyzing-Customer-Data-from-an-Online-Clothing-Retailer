@@ -1,4 +1,4 @@
-# Linear Regression Project
+# Guided Linear Regression Project
 
 The aim of this project is to become familiar solving business problems using linear regression in a Python environment. 
 
